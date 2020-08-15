@@ -1,4 +1,4 @@
 # Pandas-Challenge
 Pandas Homework
 
-Final Notebook is the file with the starter label (PyCitySchools-Starter.ipynd)
+Final Notebook is the file with the starter label (PyCitySchools_Starter.ipynd)
